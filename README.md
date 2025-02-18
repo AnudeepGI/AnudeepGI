@@ -1,4 +1,4 @@
-# Hi there, I'm AnudeepGI! 👋
+# Hi there, I'm Anudeep GI! 👋
 
 Welcome to my GitHub profile! I'm passionate about software development, open-source contributions, and continuous learning. I love to explore new technologies and work on exciting projects that solve real-world problems.
 
