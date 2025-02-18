@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! I'm passionate about software development, open-source contributions, and continuous learning. I love to explore new technologies and work on exciting projects that solve real-world problems.
 
 ## 📞 Contact Information
-- **Phone Number:** +91 8921720345
 - **Email:** [anu1488@gmail.com](mailto:anu1488@gmail.com)
 - **Current Location:** Bangalore
 
