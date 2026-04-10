@@ -6,6 +6,9 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 - **Email:** [anu1488@gmail.com](mailto:anu1488@gmail.com)
 - **Current Location:** Bangalore
 
+## 📰 Blog
+- [Blog #1 — AutoResearch: A Simple Way to Build Self-Improving AI](blogs/blog-001-autoresearch-self-improving-ai.md)
+
 ## 🚀 Professional Summary
 I am a Full Stack Developer with 11 years of versatile experience encompassing front-end, back-end, and full-stack development. I am proficient in a wide range of technologies including JavaScript, Node.js, React.js, CSS, HTML, AWS, and have worked in PHP, ROR. I have demonstrated success in designing and developing dynamic web applications, with a strong background in building applications from scratch. Currently contributing as a Full Stack Developer at Accenture, known for delivering exceptional results. I am seeking new opportunities to apply my expertise in building scalable applications and contributing to cutting-edge projects.
 
